@@ -1,0 +1,6 @@
+# Bugs
+
+-Sometimes selects multiple rows/columns
+-Semi-zoomed art is out of position sometimes
+-Moving from 1 to multiple tiles then back to 1 will mark 2 tiles
+-
