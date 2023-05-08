@@ -139,7 +139,7 @@ var artnames = [
     "You Gotta Run",
     "Get Gang Banged",
     "Hope your mom gets better mizu",
-    "Art",
+    "Lock and loaded Gorillia - Chaos Faction",
     "ENA",
     "Art",
     "The Gift",

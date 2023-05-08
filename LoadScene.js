@@ -188,7 +188,7 @@ class LoadScene extends Phaser.Scene {
 
     update() {
         var endTimer = new Date();
-        if ((((endTimer - this.startTimer) / 1000 > 5) && !this.flag) && !NGIO.isReady) {
+        if ((((endTimer - this.startTimer) / 1000 > 5) && !this.flag)) {
             this.flag = true;
             console.log("Timed out");
             this.flag2 = false;
